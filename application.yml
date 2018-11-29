@@ -6,9 +6,9 @@ Spring:
 Spring:
     profiles: dev 
     application:
-        name: micorservicecloud-config-luo-dev
+        name: micorservicecloud-config-dev
 ---
 Spring:
     profiles: test 
     application:
-        name: micorservicecloud-config-luo-test
+        name: micorservicecloud-config-test

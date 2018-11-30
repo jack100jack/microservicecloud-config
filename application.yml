@@ -6,9 +6,11 @@ Spring:
 Spring:
     profiles: dev 
     application:
-        name: micorservicecloud-config-dev
+        name: micorservicecloud-config-atguigu-dev
 ---
 Spring:
     profiles: test 
     application:
-        name: micorservicecloud-config-test
+        name: micorservicecloud-config-atguigu-test
+        
+        
